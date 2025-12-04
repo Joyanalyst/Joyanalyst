@@ -17,10 +17,25 @@ I am a data-driven educator and analyst with 2 years of experience using **Excel
 
 ##  My Passion
 I love turning complex problems into simple, visual, insight-driven solutions. My passion is helping organizations make smarter decisions using data.
-
- *Let’s connect and collaborate!*
 I am open to new professional opportunities where I can apply my analytical skills to drive significant organizational impact.
+### let's connect
 
 * **LinkedIn:** [LinkedIn](www.linkedin.com/in/joy-anzaku)
 * **Email:** Joyanzaku2016@gmail.com
-* **My Portfolio:** [Link to a specific, best project repository or a dedicated portfolio site]
+  ## Projects
+  
+### 🔸 1. Amazon Review Analysis
+- **Tools:** Excel, Power BI, MYSQL 
+- **What I did:** Data cleaning, sentiment insights, dashboard creation  
+- **View Project:** [Ananalysis of 12 million amazon product reviews](https://github.com/yourusername/project-name)
+
+### 🔸 2. Sales Dashboard (Power BI)
+- **Tools:** Power BI, DAX, Excel  
+- **What I did:** Built a sales performance dashboard with KPIs and trends  
+- **View Project:** [GitHub Repository Link](https://github.com/yourusername/project-name)
+
+### 🔸 3. Inventory Management Analysis
+- **Tools:** SQL, Excel  
+- **What I did:** Querying, cleaning, inventory reporting  
+- **View Project:** [GitHub Repository Link](https://github.com/yourusername/project-name)
+
