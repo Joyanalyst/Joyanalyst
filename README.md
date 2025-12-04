@@ -1,11 +1,13 @@
 # Hi, I'm Joy,
 
-I am a data-driven educator and analyst with 2 years of experience using **Excel**, **Power BI**, and **AI tools** to improve academic performance and enhance school operations. I specialize in transforming raw data into actionable insights that support better teaching, improved learning outcomes, and stronger parent satisfaction.
+With 2 years of hands‑on experience leveraging Excel and Power BI, I’ve transformed raw data into actionable insights that deliver measurable results. My journey began in the education sector, where I applied analytical tools and AI solutions to improve performance, satisfaction, and engagement.
 
 ##  What I’ve Achieved
--  **30% improvement in students’ academic performance** through data-informed lesson planning and targeted interventions.  
--  **50% increase in teacher input and dedication** by introducing AI-assisted workflows and structured performance insights.  
--  **20% growth in school population**, supported by data-driven customer feedback initiatives for parents.
+- Performance Growth: Designed and implemented data‑driven strategies that boosted academic outcomes by 30%.
+- Customer Satisfaction: Partnered with parents to ensure transparency and trust, leading to stronger relationships and retention.
+- Collaboration: Worked closely with teachers to refine methodologies, resulting in a 50% increase in teacher input and dedication.
+- Expansion: Contributed to a 20% growth in student population, showcasing my ability to drive organizational growth.
+
 
 ##  Tools & Skills
 - Excel (data cleaning, Power Pivot, Power Query, dashboards)  
@@ -15,9 +17,9 @@ I am a data-driven educator and analyst with 2 years of experience using **Excel
 - AI tools for productivity and analysis  
 - Strong communication and collaboration skills
 
-##  My Passion
-I love turning complex problems into simple, visual, insight-driven solutions. My passion is helping organizations make smarter decisions using data.
-I am open to new professional opportunities where I can apply my analytical skills to drive significant organizational impact.
+##  My Ask
+I'm looking for a data analytics role in sales and e-commerce where I can bring this blend of data expertise, customer empathy, and growth mindset, helping businesses not just meet targets, but exceed them
+
 ### let's connect
 
 * **LinkedIn:** [LinkedIn](www.linkedin.com/in/joy-anzaku)
