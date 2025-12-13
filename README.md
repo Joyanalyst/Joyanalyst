@@ -29,7 +29,7 @@ I'm looking for a data analytics role in sales and e-commerce where I can bring 
 ### 🔸 1. Amazon Review Analysis
 - **Tools:** Excel, Power BI, MYSQL 
 - **What I did:** Data cleaning, sentiment insights, dashboard creation  
-- **View Project:** [Ananalysis of 12 million amazon product reviews](https://github.com/Joyanalyst/Amazon-Product-Review-Analysis)
+- **View Project:** [Analysis of 12 million amazon product reviews](https://github.com/Joyanalyst/Amazon-Product-Review-Analysis)
 
 ### 🔸 2. Retail Operational Health Analysis
 - **Tools:**  DAX, Excel  
